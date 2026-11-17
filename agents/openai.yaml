@@ -1,0 +1,6 @@
+interface:
+  display_name: "规资课堂公众号推文制作"
+  short_description: "分析真实课件，三智能体审核方案，确认后交付短文案与逐张配图提示词"
+  default_prompt: "使用 $guizi-classroom-publicity 分析当前课堂资料，先提交审核后的推文与配图方案，等我确认后再正式制作。"
+policy:
+  allow_implicit_invocation: true
